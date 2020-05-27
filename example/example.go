@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	crypto "github.com/GeistInDerSH/Crypto-suite"
+	crypto "github.com/GeistInDerSH/CryptoSuite"
 )
 
 var (
